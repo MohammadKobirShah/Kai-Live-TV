@@ -1,0 +1,77 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Kai Bangla", Duronto TV
+https://tvs1.aynaott.com/durontotv/index.m3u8?hdnts=st=1734554204~exp=1734597404~acl=/byte-capsule/*~data=69.57.172.5-WEB~hmac=2f0da71ab0916f78eb83cf23db4811f583fbc4f3143e216025acaf8c3976345f
+#EXTINF:-1 tvg-id="Kai Bangla" tvg-name="Kai Bangla" tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_bangla.png", ATN Bangla
+http://30.30.30.30:8088/202/index.m3u8
+#EXTINF:-1 tvg-id="Kai Bangla" tvg-name="Kai Bangla" tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_news.png", ATN News
+http://30.30.30.30:8088/203/index.m3u8
+#EXTINF:-1 tvg-id="Kai Bangla" tvg-name="Kai Bangla" tvg-logo="https://edge01.iptv.digijadoo.net/static/ananda_tv.png", Ananda TV
+https://app24.jagobd.com.bd/live-orgin/anandatv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Kai Bangla" tvg-name="Kai Bangla" tvg-logo="https://edge01.iptv.digijadoo.net/static/asian_tv.png" group-title="Kai Bangla", Asian Tv
+https://mtlivestream.com/asian/ytlive/index.m3u8
+#EXTINF:-1 tvg-id="Kai Bangla" tvg-name="Kai Bangla" tvg-logo="https://edge01.iptv.digijadoo.net/static/btv_world.png" group-title="Kai Bangla", BTV 
+https://app24.jagobd.com.bd/live-orgin/btvbd-office-sg.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Kai Bangla" tvg-name="Kai Bangla" tvg-logo="https://edge01.iptv.digijadoo.net/static/bangla_tv.png" group-title="Kai Bangla", Bangla TV
+https://app24.jagobd.com.bd/live-orgin/banglatvhd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Kai Bangla" tvg-name="Kai Bangla" tvg-logo="https://edge01.iptv.digijadoo.net/static/bijoy_tv.png" group-title="Kai Bangla", Bijoy TV
+https://app24.jagobd.com.bd/live-orgin/bijoy00.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Kai Bangla" tvg-name="Kai Bangla" tvg-logo="https://edge01.iptv.digijadoo.net/static/boishakhi_tv.png" group-title="Kai Bangla", Boishakhi TV
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+#EXTINF:-1 tvg-id="Kai Bangla" tvg-name="Kai Bangla" tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_24.png" group-title="Kai Bangla", Channel 24
+https://ythls-v3.onrender.com/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
+#EXTINF:-1 tvg-id="Kai Bangla" tvg-name="Kai Bangla" tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_9.png" group-title="Kai Bangla", Channel 9
+https://app24.jagobd.com.bd/live-orgin/channel9hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Kai Bangla" tvg-name="Kai Bangla" tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_i.png" group-title="Kai Bangla", Channel I
+https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@ChanneliNews
+#EXTINF:-1 tvg-id="Kai Bangla" tvg-name="Kai Bangla" tvg-logo="https://edge01.iptv.digijadoo.net/static/dbc_news.png" group-title="Kai Bangla", DBC News
+https://ythls-v3.onrender.com/channel/UCUvXoiDEKI8VZJrr58g4VAw.m3u8
+#EXTINF:-1 tvg-id="Kai Bangla" tvg-name="Kai Bangla" tvg-logo="https://edge01.iptv.digijadoo.net/static/deepto_tv.png" group-title="Kai Bangla", Deepto TV
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
+#EXTINF:-1 tvg-id="Kai Bangla" tvg-name="Kai Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsfIHs7s0y6UiqDu37qpG-RnpWK5Kx_Mvk564W8PIhDA&s" group-title="Kai Bangla", Desh TV 
+https://nayeemparvez.online/aila-jadoo/stream.m3u8?id=desh_tv|Referer=https://xnxx.tv/
+#EXTINF:-1 tvg-id="Kai Bangla" tvg-name="Kai Bangla" tvg-logo="https://edge01.iptv.digijadoo.net/static/ekattor_tv.png" group-title="Kai Bangla", Ekattor TV
+https://app.jagobd.com.bd/live-orgin/ekattor.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Kai Bangla" tvg-name="Kai Bangla" tvg-logo="https://edge01.iptv.digijadoo.net/static/ekushey_tv.png" group-title="Kai Bangla", Ekushey TV
+https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF:-1 tvg-id="Kai Bangla" tvg-name="Kai Bangla" tvg-logo="https://edge01.iptv.digijadoo.net/static/gaan_bangla.png" group-title="Kai Bangla", Gaan Bangla 
+https://app24.jagobd.com.bd/live-orgin/gaanbangla-8-orgd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Kai Bangla" tvg-name="Kai Bangla" tvg-logo="https://edge01.iptv.digijadoo.net/static/gazi_tv.png" group-title="Kai Bangla", Gazi TV 
+http://30.30.30.30:8088/106/index.m3u8
+#EXTINF:-1 tvg-id="Kai Bangla" tvg-name="Kai Bangla" tvg-logo="https://edge01.iptv.digijadoo.net/static/independent_tv.png" group-title="Kai Bangla", Independent TV
+https://app24.jagobd.com.bd/live-orgin/independent-8-org.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Kai Bangla" tvg-name="Kai Bangla" tvg-logo="https://edge01.iptv.digijadoo.net/static/jamuna_tv.png" group-title="Kai Bangla", Jamuna TV
+https://app24.jagobd.com.bd/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Kai Bangla" tvg-name="Kai Bangla" tvg-logo="https://edge01.iptv.digijadoo.net/static/ntv.png" group-title="Kai Bangla", NTV
+https://ythls-v3.onrender.com/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
+#EXTINF:-1 tvg-id="Kai Bangla" tvg-name="Kai Bangla" tvg-logo="https://edge01.iptv.digijadoo.net/static/nagorik_tv.png" group-title="Kai Bangla", Nagorik TV
+https://nayeemparvez.online/aila-jadoo/stream.m3u8?id=nagorik_tv|Referer=https://xnxx.tv/
+#EXTINF:-1 tvg-id="Kai Bangla" tvg-name="Kai Bangla" tvg-logo="https://edge01.iptv.digijadoo.net/static/news_24_hd.png" group-title="Kai Bangla", News 24 HD
+https://ythls-v3.onrender.com/channel/UCb2O5Uo4a26CdTE7_2QA-jA.m3u8
+#EXTINF:-1 tvg-id="Kai Bangla" tvg-name="Kai Bangla" tvg-logo="https://edge01.iptv.digijadoo.net/static/nexus_tv.png" group-title="Kai Bangla", Nexus TV
+https://tvs1.aynaott.com/nexustv/index.m3u8?hdnts=st=1734554476~exp=1734597676~acl=/byte-capsule/*~data=69.57.172.5-WEB~hmac=cde33b51fe8d828b816b1ffdede33bcbf970c6bdb7b1ca9a45e8a134cdb8155c
+https://s1.thenayeemparvez.xyz/jadoo/stream.php?id=nexus_tv
+https://app24.jagobd.com.bd/live-orgin/nexustv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Kai Bangla" tvg-name="Kai Bangla" tvg-logo="https://edge01.iptv.digijadoo.net/static/quran_tv.png" group-title="Kai Bangla", Quran TV
+https://nayeemparvez.online/aila-jadoo/stream.m3u8?id=quran_tv|Referer=https://xnxx.tv/
+#EXTINF:-1 tvg-id="Kai Bangla" tvg-name="Kai Bangla" tvg-logo="https://edge01.iptv.digijadoo.net/static/rtv.png" group-title="Kai Bangla", RTV
+https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/playlist.m3u8
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.imgur.com/rAsP1Xw.jpg",RTv Music
+https://ythls.armelin.one/channel/UCi-aUVwZR5U8GBNOy0CC4ww.m3u8
+#EXTINF:-1 tvg-id="Kai Bangla" tvg-name="Kai Bangla" tvg-logo="https://edge01.iptv.digijadoo.net/static/sa_tv.png" group-title="Kai Bangla", SATV
+https://app24.jagobd.com.bd/live-orgin/satvoff5666.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Kai Bangla" tvg-name="Kai Bangla" tvg-logo="https://edge01.iptv.digijadoo.net/static/somoy_news.png" group-title="Kai Bangla", Somoy TV
+https://app24.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Kai Bangla" tvg-name="Kai Bangla" tvg-logo="https://edge01.iptv.digijadoo.net/static/t_sports.png" group-title="Kai Bangla", T Sports HD
+https://github.com/Miraz6755/Iptv.m3u/raw/refs/heads/main/Iptv.m3u
+#EXTINF:-1 tvg-id="Kai Bangla" tvg-name="Kai Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Sangeet_Bangla_logo_with_slogan_2021.png" group-title="Kai Bangla", Sangeet Bangla 
+https://tvs1.aynaott.com/SangeetBangla/index.m3u8?hdnts=st=1734554561~exp=1734597761~acl=/byte-capsule/*~data=69.57.172.5-WEB~hmac=0979f3101bc88269e4292e51769f7237c52ea5a1b88e3fa4e8ec7a4a31977ae3
+http://30.30.30.30:8088/702/index.m3u8
+#EXTINF:-1 tvg-id=""  tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_HD.png" group-title="VOOT",Colors Bangla HD
+https://fifabangladesh.live/VHOD/go.php?id=Colors_Bangla_HD_voot_MOB
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="VOOT",Colors Bangla Cinema
+https://fifabangladesh.live/VHOD/go.php?id=Colors_Bangla_Cinema_voot_MOB
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11970-j9luk5ag-v1/imageContent-11970-j9luk5ag-m1.png" group-title="Nayeem's Zee5",ZEE Bangla HD
+https://la.drmlive.au/tp/zee-zeebangla.m3u8
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11009-j8xbk7js-v1/imageContent-11009-j8xbk7js-m1.png" group-title="Nayeem's Zee5",Zee Bangla Cinema
+https://la.drmlive.au/tp/zee-zeebanglacinema.m3u8
