@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Kai Bangla", Duronto TV
-https://tvs1.aynaott.com/durontotv/index.m3u8?hdnts=st=1734554204~exp=1734597404~acl=/byte-capsule/*~data=69.57.172.5-WEB~hmac=2f0da71ab0916f78eb83cf23db4811f583fbc4f3143e216025acaf8c3976345f
+https://gm.nayeemparvez.tech/jadoo/stream.php?id=duronto_tv
 #EXTINF:-1 tvg-id="Kai Bangla" tvg-name="Kai Bangla" tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_bangla.png", ATN Bangla
 http://30.30.30.30:8088/202/index.m3u8
 #EXTINF:-1 tvg-id="Kai Bangla" tvg-name="Kai Bangla" tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_news.png", ATN News
